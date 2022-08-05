@@ -28,7 +28,7 @@ I want to use my extensive knowledge in software design and development and furt
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="github" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="40" height="40"/> </a>
-<a href="https://www.eclipse.org/" target="_blank"> <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://spring.io/tools" target="_blank"> <img src="https://spring.io/images/logo-spring-tools-4-c5e3ea301ba9d85444ef244449335be3.svg" alt="spring" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="vuejs" width="40" height="40"/> </a>
    <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> </a>
