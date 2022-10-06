@@ -36,6 +36,8 @@ I want to use my extensive knowledge in software design and development and furt
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="40" height="40"/> </a>
    <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://zappysys.com/blog/wp-content/uploads/2018/07/jira-logo.jpg" alt="jira" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.imagar.com/wp-content/uploads/2018/06/azure.png" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.thymeleaf.org/" target="_blank"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="40" height="40"/> </a>
+  
 </p>
 
 
