@@ -41,6 +41,4 @@ I want to use my extensive knowledge in software design and development and furt
 
 <br />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieutranCS&layout=compact&theme=radical" width="400" />
-</p>
+
