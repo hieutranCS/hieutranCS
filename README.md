@@ -1,9 +1,7 @@
 <p>
   <h1 align="center"><b>Hello World! I'm Hieu</h1>
 </p>
-<p align="center">I'm a Software Developer with ability to follow established procedures and work under little or no supervision.
-Possess strong ability to develop application using JavaScript, C++, and Java based tools.
-I want to use my extensive knowledge in software design and development and further learn new things and grow as a Software Developer.
+<p align="center">I'm a Software Developer with ability to follow established procedures and work under little or no supervision. I want to use my extensive knowledge in software design and development and further learn new things and grow as a Software Developer.
 </p>
 
 <br />
