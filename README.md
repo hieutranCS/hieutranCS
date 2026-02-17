@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello World! I'm Hieu</h1>
+  <h1 align="center"><b>Hello World! My name is Hieu</h1>
 </p>
 <p align="center">I'm a Software Developer with ability to follow established procedures and work under little or no supervision. I want to use my extensive knowledge in software design and development and further learn new things and grow as a Software Developer.
 </p>
